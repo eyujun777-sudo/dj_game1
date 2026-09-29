@@ -1,0 +1,6 @@
+{
+  "name": "Jewel Quest Ancient - 피라미드 보석 퍼즐",
+  "description": "고대 피라미드 테마의 화려한 반응형 매치 3 보석 퍼즐 게임. 번개 다이아몬드, 폭탄 보석, 연속 콤보와 모바일 터치 스와이프를 완벽 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
